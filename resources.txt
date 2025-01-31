@@ -4,6 +4,11 @@
 # CSS Interview Questions
 - https://www.interviewbit.com/css-interview-questions/
 
+OR
+
+# HTML CSS (2 Hours)
+https://www.youtube.com/watch?v=TsxVo6LudC0&t=828s
+
 # JS Interview Questions (52 Questions) (13 Hours Required Approx or 3.5 Days)
 - https://www.interviewbit.com/javascript-interview-questions/
 

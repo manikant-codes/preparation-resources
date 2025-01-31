@@ -1,0 +1,20 @@
+# JS Interview Questions (52 Questions) (13 Hours Required Approx or 3.5 Days)
+- https://www.interviewbit.com/javascript-interview-questions/
+
+# JS Programs (150 Programs) 
+- https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+- Do all programs of strings, arrays, conditionals and loops.
+- Agar 5 minute me solution nahi sooch sako to solution dekhlena hai aur use samajhna hai, aur fir bina dekhe solve karna hai.
+
+# React Interview Questions (41 Questions) (10 Hours or 2.5 Days)
+- https://www.interviewbit.com/react-interview-questions/
+
+# React Project 
+- https://www.youtube.com/watch?v=l3A9OcUd_Us (25 Projects Part 1) (9 Hours Video) (27 Hours or 7 Days )
+- https://www.youtube.com/watch?v=QZXBylaAk7s&t=23077s (25 Projects Part 2) (9 Hours Video) (27 Hours or 7 Days )
+
+# Git and Github (2:30 Hours Video)
+- https://www.youtube.com/watch?v=q8EevlEpQ2A 
+
+
+
